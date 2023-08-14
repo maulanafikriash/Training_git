@@ -17,3 +17,6 @@ function login(...data) {
 }
 
 login(13);
+
+// ini adalah perulangan for
+let cekNumber = 2
