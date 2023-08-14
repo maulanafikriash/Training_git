@@ -18,5 +18,10 @@ function login(...data) {
 
 login(13);
 
-// ini adalah perulangan for
-let cekNumber = 2
+// ini adalah penambahan variabel
+let cekNumber = 35
+let bro = 'hallo bro'
+let skuy = 'gas lah kkuy'
+console.log(skuy);
+
+
