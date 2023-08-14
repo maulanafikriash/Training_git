@@ -20,3 +20,5 @@ login(13);
 
 // ini adalah perulangan for
 let cekNumber = 35
+let bro = 'hallo bro'
+
